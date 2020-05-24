@@ -1,5 +1,7 @@
 # SwiftUI MovieDB TMDb App V2
 
+![Alt text](./promo.png?raw=true "SwiftUI MovieDb with TMDb API iOS App")
+
 This is my second project to create a Movie DB app similar to Apple TV iOS app using TMDb API
 
 ## Requirement
