@@ -1,0 +1,368 @@
+{
+    "page": 1,
+    "total_results": 49,
+    "total_pages": 3,
+    "results": [
+        {
+            "popularity": 43.457,
+            "vote_count": 12278,
+            "video": false,
+            "poster_path": "\/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg",
+            "id": 238,
+            "adult": false,
+            "backdrop_path": "\/7VrRna8S3x6xbijooeBmxqvHXiu.jpg",
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "title": "The Godfather",
+            "vote_average": 8.7,
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "release_date": "1972-03-15"
+        },
+        {
+            "popularity": 26.462,
+            "vote_count": 7261,
+            "video": false,
+            "poster_path": "\/amvmeQWheahG3StKwIE1f7jRnkZ.jpg",
+            "id": 240,
+            "adult": false,
+            "backdrop_path": "\/bNDAvlXCX160fF54ltA4SGpPGI5.jpg",
+            "original_language": "en",
+            "original_title": "The Godfather: Part II",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "title": "The Godfather: Part II",
+            "vote_average": 8.6,
+            "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+            "release_date": "1974-12-20"
+        },
+        {
+            "popularity": 21.163,
+            "vote_count": 3647,
+            "video": false,
+            "poster_path": "\/1hdm3Axw9LjITbApvAXBbqO58zE.jpg",
+            "id": 242,
+            "adult": false,
+            "backdrop_path": "\/6exeovaF27FlGZTd7eUi5WMUUCr.jpg",
+            "original_language": "en",
+            "original_title": "The Godfather: Part III",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "title": "The Godfather: Part III",
+            "vote_average": 7.4,
+            "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+            "release_date": "1990-12-24"
+        },
+        {
+            "popularity": 5.185,
+            "id": 294636,
+            "video": false,
+            "vote_count": 10,
+            "vote_average": 7.3,
+            "title": "The Godfather Legacy",
+            "release_date": "2012-07-12",
+            "original_language": "en",
+            "original_title": "The Godfather Legacy",
+            "genre_ids": [
+                99
+            ],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "THE GODFATHER LEGACY goes deep inside Francis Ford Coppola's epic saga about the Corleone crime family and reveals how the Academy Award-winning film and its sequels became one of the most acclaimed franchises in Hollywood history. Featuring iconic scenes from all three films, never before seen home movies and insightful interviews with filmmakers (Francis Ford Coppola, All Ruddy and Peter Bart), actors (Al Pacino, James Caan, Talia Shire, Joe Mantegna, et al.), law enforcement officials and even former Mafia members. This feature length documentary illustrates why The Godfather trilogy continues to entertain and fascinate audiences and how it continues to impact the way society views everything from capitalism to crime.",
+            "poster_path": "\/9y9w5prvVjBtwWl9TNtvThL0NNi.jpg"
+        },
+        {
+            "popularity": 5.042,
+            "vote_count": 76,
+            "video": true,
+            "poster_path": "\/rwEP0RwpF2mKGRbs7jerdC4aeMB.jpg",
+            "id": 364150,
+            "adult": false,
+            "backdrop_path": "\/tYjyk4Ij7CwVOn2ovcXdRYffR9k.jpg",
+            "original_language": "en",
+            "original_title": "The Godfather Trilogy: 1901-1980",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "title": "The Godfather Trilogy: 1901-1980",
+            "vote_average": 9.3,
+            "overview": "The multigenerational saga of the rise and fall of the Corleone crime family. Story is told in chronological order, and numerous scenes that were deleted from each film have been restored.",
+            "release_date": "1992-10-17"
+        },
+        {
+            "popularity": 5.772,
+            "vote_count": 20,
+            "video": false,
+            "poster_path": null,
+            "id": 56205,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "The Godfather Family: A Look Inside",
+            "genre_ids": [
+                99
+            ],
+            "title": "The Godfather Family: A Look Inside",
+            "vote_average": 7.9,
+            "overview": "A documentary on the making of the three Godfather films, with interviews and recollections from the film makers and cast. This feature also includes the original screen tests of some of the actors for \"The Godfather\" film, and some candid moments on the set of \"The Godfather: Part III.\"",
+            "release_date": "1990-07-12"
+        },
+        {
+            "popularity": 5.409,
+            "vote_count": 5,
+            "video": false,
+            "poster_path": "\/zQdHIcI3du3xBB9nl6HEdfrExkB.jpg",
+            "id": 526803,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Fred: The Godfather of British Crime",
+            "genre_ids": [],
+            "title": "Fred: The Godfather of British Crime",
+            "vote_average": 7.4,
+            "overview": "This is an examination into the psyche of former London gangster Freddie Foreman: 85 years old, allegedly responsible for multiple murders, and nearing the end of his life. Fred is the only gangster who lived through the turbulent history of the British underworld and survived to tell the tale.",
+            "release_date": "2018-04-20"
+        },
+        {
+            "popularity": 5.211,
+            "vote_count": 13,
+            "video": false,
+            "poster_path": "\/mzwiMxr0a5xOe3R8d5c2DlkCYzM.jpg",
+            "id": 58862,
+            "adult": false,
+            "backdrop_path": "\/j4wwKS0aokfGe7QDYqU2k6744hi.jpg",
+            "original_language": "en",
+            "original_title": "Herschell Gordon Lewis: The Godfather of Gore",
+            "genre_ids": [
+                99,
+                27
+            ],
+            "title": "Herschell Gordon Lewis: The Godfather of Gore",
+            "vote_average": 6.9,
+            "overview": "Take an outrageous ride through this wild world of exploitation films with this thoroughly entertaining documentary, HERSCHELL GORDON LEWIS – THE GODFATHER OF GORE! Featuring cult director John Waters, Drive-In Movie Critic Joe Bob Briggs, Herschell Gordon Lewis himself and a “cast of thousands,” you’ll witness the innocent bare-naked era of Nudie-Cuties before Lewis schocked the world with “Blood Feast,” the first ever gore film!",
+            "release_date": "2011-09-27"
+        },
+        {
+            "popularity": 6.748,
+            "vote_count": 11,
+            "video": false,
+            "poster_path": "\/3BQArnXPwM5nHeS1tlGKLY7eapP.jpg",
+            "id": 606215,
+            "adult": false,
+            "backdrop_path": "\/lrTKanWOB7tyOrK2m93pffSJoaS.jpg",
+            "original_language": "en",
+            "original_title": "The Black Godfather",
+            "genre_ids": [
+                99
+            ],
+            "title": "The Black Godfather",
+            "vote_average": 7.4,
+            "overview": "Follows the life of Clarence Avant, the ultimate, uncensored mentor and behind-the-scenes rainmaker in music, film, TV and politics.",
+            "release_date": "2019-06-07"
+        },
+        {
+            "popularity": 2.693,
+            "vote_count": 2,
+            "video": false,
+            "poster_path": null,
+            "id": 87426,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Paul Mooney: The Godfather of Comedy",
+            "genre_ids": [
+                35,
+                10770
+            ],
+            "title": "Paul Mooney: The Godfather of Comedy",
+            "vote_average": 3.8,
+            "overview": "The venomous, no-holds-barred style of standup comedy legend Paul Mooney is on full display in this concert special that finds the vitriolic funnyman sparing no politician or pop culture icon from his scathing wit, including Sarah Palin, Mel Gibson and even golf pro Tiger Woods. Defiant, socially relevant, and always hilarious, it's a legendary Mooney performance, taped live at the Cobb Energy Centre in Atlanta, Georgia.",
+            "release_date": "2012-02-03"
+        },
+        {
+            "popularity": 0.825,
+            "id": 409523,
+            "video": false,
+            "vote_count": 1,
+            "vote_average": 7,
+            "title": "The Godfather and the Mob",
+            "release_date": "2006-04-25",
+            "original_language": "en",
+            "original_title": "The Godfather and the Mob",
+            "genre_ids": [
+                99
+            ],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "The Godfather And The Mob reveals the true life story of murder, mafia and mayhem that occurred behind the scenes of the most iconic gangster film ever made.",
+            "poster_path": "\/80aomGBillepc6qNvSfWRcp9QSZ.jpg"
+        },
+        {
+            "popularity": 3.023,
+            "vote_count": 10,
+            "video": false,
+            "poster_path": "\/8lJS9NkWgSDbvPBlpqB3M3Bm1hq.jpg",
+            "id": 70829,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "ko",
+            "original_title": "The Last Godfather",
+            "genre_ids": [
+                28,
+                35,
+                53
+            ],
+            "title": "The Last Godfather",
+            "vote_average": 4.6,
+            "overview": "Young-goo the son of mafia boss Don Carini, is too foolish to be part of the mafia elite. One day, Young-goo comes to his father and is trained by Tony V to be his father's successor. A few days later, Young-goo accidentally rescues Nancy, the only daughter of Don Bonfante, the boss of a rival mafia family. But Vinnie, an under-boss of the Bonfante family kidnapped her and fabricates that Young-goo has taken her. Vinnie's behavior provokes an armed conflict between the two families.",
+            "release_date": "2011-04-11"
+        },
+        {
+            "popularity": 1.36,
+            "vote_count": 3,
+            "video": false,
+            "poster_path": null,
+            "id": 73725,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "The Godfather of Green Bay",
+            "genre_ids": [
+                35
+            ],
+            "title": "The Godfather of Green Bay",
+            "vote_average": 3.8,
+            "overview": "Joe Keegan is the 'Rocky' of stand-up comedy. A fifteen-year comedy veteran who was pegged for stardom early on in his career but has blown every major audition he has ever had in legendary fashion. Fresh off a recent fiasco with a heckler that included a broken nose, Joe's friend Kenny tells him he can get them an audition for 'The Tonight Show' and that it's 'a can't miss.' The one catch is that it's at a roadside bar in tiny Pine Lake, Wisconsin, hometown of Tonight Show Talent scout, Harvey Skorik who never misses 'Rocktoberfest.' Having doubts but needing a break from L.A., Joe reluctantly agrees to go. Arriving in Wisconsin, Joe bombs his first night on stage when local emcee Dug sabotages him. Joe cannot get a break until he encounters his former high school English teacher, the beautiful Molly Mahoney who is also at a crossroads in her life.",
+            "release_date": "2005-04-20"
+        },
+        {
+            "popularity": 0.6,
+            "id": 598173,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "The Godfather of Disco",
+            "release_date": "2007-03-04",
+            "original_language": "en",
+            "original_title": "The Godfather of Disco",
+            "genre_ids": [],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "At the heart of this remarkable, music-filled documentary is the story of Mel Cheren, the ‘Godfather’ himself. The film traces the cultural conditions which led to the flowering of disco, the founding of West End Records and the Paradise Garage and, eventually, the onslaught of AIDS and its devastating effect on the musical and gay communities of New York City. Yet, like disco itself, it is primarily celebratory in nature. Randy Jones, Junior Vasquez and Louis Vega contribute, among many others. This evocative work will interest anyone who has danced to anything, ever.",
+            "poster_path": "\/fsfdkH6bQLMeGPRi5qIdYfIJIIt.jpg"
+        },
+        {
+            "popularity": 0.6,
+            "id": 585025,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "Emulsional Rescue: Revealing 'The Godfather'",
+            "release_date": "2008-09-23",
+            "original_language": "en",
+            "original_title": "Emulsional Rescue: Revealing 'The Godfather'",
+            "genre_ids": [
+                99
+            ],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "We hear from Coppola, Spielberg, director of photography Gordon Willis, consulting restoration cinematographer Allen Daviau, film archivist Robert A. Harris, Paramount Post Production executive VP Martin Cohen, MPI senior technical advisor Daniel Rosen, MPI scanning technician Chris Gillaspie, senior digital artist Steven A. Sanchez, digital artist Valerie V. McMahon, and MPI technical director and senior colorist Jan Yarbrough as they offer interesting facts about the original cinematography, details on the restoration of the three films.",
+            "poster_path": "\/kHQqLP2Bck1O1ZEo3NUoqSR7HEd.jpg"
+        },
+        {
+            "popularity": 1.364,
+            "vote_count": 4,
+            "video": false,
+            "poster_path": "\/4B7wQFfKlcAS3QFL95iSnYcdlfJ.jpg",
+            "id": 80755,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "The Black Godfather",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "title": "The Black Godfather",
+            "vote_average": 5.3,
+            "overview": "The heroes in The Black Godfather are members of an African-American criminal organization. Like Brando in The Godfather, they're not averse to robbery and murder, but they do draw the line at narcotics. When the Mafia infiltrates the 'hood with dangerous drugs, the Black Godfather (Rod Perry) orders his minions to put an end to this perfidy.",
+            "release_date": "1974-09-03"
+        },
+        {
+            "popularity": 0.6,
+            "id": 311805,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "James Brown: The Godfather of Soul",
+            "release_date": "",
+            "original_language": "en",
+            "original_title": "James Brown: The Godfather of Soul",
+            "genre_ids": [],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "The \"Godfather of Soul\" changed the face of music with his impassioned vocals and fiery intensity. This A&amp;E biography looks back at James Brown's life and career. Growing up poor in the South, Brown had a few scrapes with the law before finding gospel. Gospel led to soul, and Brown became a legend with the hits \"Papa's Got a Brand New Bag\" and \"I Got You (I Feel Good),\" securing his status as the \"Hardest Working Man in Show Business.\"",
+            "poster_path": null
+        },
+        {
+            "popularity": 0.6,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/bPDag00mRJDJ36tdhqUwokGjGGh.jpg",
+            "id": 706157,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Morgan Wootten: The Godfather of Basketball",
+            "genre_ids": [
+                99
+            ],
+            "title": "Morgan Wootten: The Godfather of Basketball",
+            "vote_average": 0,
+            "overview": "The remarkable story of Morgan Wootten, the first high school coach in the Naismith Memorial Basketball Hall of Fame.",
+            "release_date": "2016-01-01"
+        },
+        {
+            "popularity": 0.6,
+            "id": 257994,
+            "video": false,
+            "vote_count": 1,
+            "vote_average": 9,
+            "title": "Stan Tracey: The Godfather of British Jazz",
+            "release_date": "2003-01-01",
+            "original_language": "en",
+            "original_title": "Stan Tracey: The Godfather of British Jazz",
+            "genre_ids": [],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "Stan Tracey: The Godfather of British Jazz  is a portrait of one musician’s lifetime achievement. In a career spanning 60 years as pianist and composer, Tracey (1926 – 2013), recalls his life with unprecedented honesty. The film combines a mix of archive, landscape and interviews with musical giants such as saxophonist Courtney Pine, doyenne Cleo Laine and jazz eminence Humphrey Lyttleton.  Stan Tracey’s obituary, published in the Guardian, 6 December 2013 can be viewed here.  smokingdogfilms.com",
+            "poster_path": null
+        },
+        {
+            "popularity": 0.698,
+            "id": 454477,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "The Russian Godfather",
+            "release_date": "",
+            "original_language": "en",
+            "original_title": "The Russian Godfather",
+            "genre_ids": [],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "A bungled bank robbery puts two cops - one Russian and one American on the trail of the Russian Mafia crime family operating out of L.A. The Russian police officer, an elite agent from Moscow, has been tracking these gangsters since they burdered his family two years earlier. When the Mafia lord realises he is after then, they kidnap his American partner's wife and two young daughters, holding them hostage. The price of their freedom is the Russian agent's life...",
+            "poster_path": "\/zLmF82TAn1PvRuzKcG2rPhNWYBv.jpg"
+        }
+    ]
+}
