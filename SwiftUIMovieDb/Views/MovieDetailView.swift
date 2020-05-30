@@ -35,10 +35,11 @@ struct MovieDetailListView: View {
     
     let movie: Movie
     @State private var selectedTrailer: MovieVideo?
+    let imageLoader = ImageLoader()
     
     var body: some View {
         List {
-            MovieDetailImage(imageURL: self.movie.backdropURL)
+            MovieDetailImage(imageLoader: imageLoader, imageURL: self.movie.backdropURL)
                 .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 0, trailing: 0))
             
             HStack {
@@ -127,7 +128,7 @@ struct MovieDetailListView: View {
 
 struct MovieDetailImage: View {
     
-    @ObservedObject private var imageLoader = ImageLoader()
+    @ObservedObject var imageLoader: ImageLoader
     let imageURL: URL
     
     var body: some View {
