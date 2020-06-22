@@ -31,7 +31,7 @@ struct LoadingView: View {
                             Button(action: self.retryAction!) {
                                 Text("Retry")
                             }
-                            .foregroundColor(Color(UIColor.systemBlue))
+                            .foregroundColor(Color.blue)
                             .buttonStyle(PlainButtonStyle())
                         }
                     }

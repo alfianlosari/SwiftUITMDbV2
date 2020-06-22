@@ -15,7 +15,10 @@ protocol MovieService {
     func searchMovie(query: String, completion: @escaping (Result<MovieResponse, MovieError>) -> ())
 }
 
-enum MovieListEndpoint: String, CaseIterable {
+enum MovieListEndpoint: String, CaseIterable, Identifiable {
+    
+    var id: String { rawValue }
+    
     case nowPlaying = "now_playing"
     case upcoming
     case topRated = "top_rated"
